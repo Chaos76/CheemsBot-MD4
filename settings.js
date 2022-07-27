@@ -57,7 +57,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['50245369173'] //ur owner number
 global.ownername = "BlackCoreBot666🎃♦️" //ur owner name
 global.ytname = "YT: BlackCore" //ur yt channel name
-global.socialm = "GitHub: DGXeon" //edcolling77
+global.socialm = "Instagram: edcolling77" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
